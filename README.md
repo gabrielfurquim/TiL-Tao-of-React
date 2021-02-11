@@ -1,7 +1,7 @@
-### TiL-Tao-of-React
+# TiL-Tao-of-React
 ---
-## Tao of React
 # Today I Learned
+## Tao of React
 
 Criei este repositório para exercitar e registrar os conceitos que li em um artigo e achei super interessante, a ideia é de implementar todos os dias uma pequena parte das ideias abordadas no post abaixo.
 
