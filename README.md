@@ -6,4 +6,4 @@ Criei este repositório para exercitar e registrar os conceitos que li em um art
 
 Recentemente o Fabio Vedovelli retwetou um artigo escrito pelo Alex Kondov, este artigo fala sobre boas práticas, design de software e arquitetura, nele são abordados vários tópicos que na minha opnião são muito bacanas de se estudar e implementar sempre que possível.
 
-[Aqui está o link do artigo] (https://alexkondov.com/tao-of-react/)
+[Aqui está o link do artigo](https://alexkondov.com/tao-of-react/)
